@@ -42,8 +42,8 @@ Untuk menjalankan proyek ini di komputermu, ikuti langkah-langkah berikut:
    **Bash**
 
    ```
-   git clone [URL_REPOSITORI_ANDA]
-   cd [NAMA_FOLDER_REPOSITORI]
+   git clone https://github.com/LhoWann/analisis-sentimen-aplikasi-shopee.git
+   cd analisis-sentimen-aplikasi-shopee
    ```
 2. Buat Virtual Environment (Sangat Direkomendasikan)
    Untuk menjaga dependensi proyek tetap terisolasi, buat sebuah virtual environment.
